@@ -1,0 +1,21 @@
+Jane Smith
+jane.smith@email.com | +91 91234 56780 | linkedin.com/in/janesmith | github.com/janesmith
+
+EDUCATION
+B.Tech in Artificial Intelligence and Data Science, ABC Institute of Technology
+CGPA: 8.7 | Expected Graduation: June 2028
+
+SKILLS
+Python, C, SQL, Pandas, Flask, Git
+
+PROJECTS
+ATS Resume Checker (github.com/janesmith/ats-resume-checker)
+- Built a Flask web app that scores resumes against job descriptions across formatting, structure, and keyword match
+- Designed a custom regex-based tokenizer and scoring engine covering 4 weighted categories
+- Wrote 15 unit tests covering edge cases, achieving full pass rate before deployment
+
+EXPERIENCE
+None listed -- replace with any internship, freelance, or research work.
+
+ACHIEVEMENTS
+Solved 40+ problems on LeetCode (Easy/Medium)
